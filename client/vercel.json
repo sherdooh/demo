@@ -1,0 +1,8 @@
+{
+    "routes": [
+      {
+        "src": "/api/(.*)",
+        "dest": "http://100.25.204.246:8000/api/blogpost"
+      }
+    ]
+  }
